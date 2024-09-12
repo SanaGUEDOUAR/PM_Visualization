@@ -26,8 +26,8 @@ You can create an environment with the required packages using the provided `env
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/protein-membrane-visualization.git
-    cd protein-membrane-visualization
+    git clone git@github.com:SanaGUEDOUAR/PM_Visualization.git
+    cd PM_Visualization/
     ```
 
 2. **Create and activate the conda environment:**
