@@ -26,8 +26,8 @@ You can create an environment with the required packages using the provided `env
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/protein-membrane-visualization.git
-    cd protein-membrane-visualization
+    git clone git@github.com:SanaGUEDOUAR/PM_Visualization.git
+    cd PM_Visualization/
     ```
 
 2. **Create and activate the conda environment:**
@@ -63,9 +63,6 @@ To analyze a protein structure and visualize potential membrane regions, follow 
 
 After running the main script with a PDB file, you will see output indicating the best hydrophobicity score and the found axis. The PyMOL session will be saved in the `results` directory and can be loaded for visualization.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
