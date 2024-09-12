@@ -42,6 +42,7 @@ To analyze a protein structure and visualize potential membrane regions, follow 
 
 1. **Run the main script with your PDB file:**
     ```bash
+    cd src/
     python main.py path/to/your_protein.pdb
     ```
 
