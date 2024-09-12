@@ -1,0 +1,12 @@
+name: tm_parts-env
+channels:
+    - conda-forge
+    - salilab
+    - bioconda
+    - schrodinger
+dependencies:
+    - python
+    - biopython    
+    - numpy
+    - pymol-open-source
+    - dssp
